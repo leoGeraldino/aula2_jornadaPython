@@ -1,3 +1,9 @@
 #Ignore virtual environment configuration/settings
 
 venv/
+
+#Ignore main.ipynb because its size
+main.ipynb
+
+#Ignore split_file.py because its not necessary for the others developers
+split_file.py
