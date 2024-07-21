@@ -1,6 +1,7 @@
 <h1>aula2_jornadaPython</h1>
 
 <h2>Description</h2>
+
 This project is the second class of <i>Jornada Python</i> from <i>Hastag Treinamentos</i> and it consists in a
 data analysis project, whose purpose is to analyze the reasons behind the cancellation rate for the services
 offered by a fictitious company. 
